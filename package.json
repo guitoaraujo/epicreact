@@ -1,0 +1,22 @@
+{
+  "name": "epicreact",
+  "version": "1.0.0",
+  "description": "muito épico cara!!!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guitoaraujo/epicreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guitoaraujo/epicreact/issues"
+  },
+  "homepage": "https://github.com/guitoaraujo/epicreact#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
